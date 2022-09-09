@@ -1,4 +1,4 @@
-# **Prepare-rules-for-the-data-set-of-my-movies**
+# **Prepare-rules-for-the-data-set-on-my-movies**
 
 Prepare rules for the data set on **my_moives.csv**
 
